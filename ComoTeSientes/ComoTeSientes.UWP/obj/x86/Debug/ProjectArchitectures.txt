@@ -1,0 +1,2 @@
+C:\Users\t-elrodr\Documents\Visual Studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes.UWP\ComoTeSientes.UWP.csproj;x86
+C:\Users\t-elrodr\Documents\Visual Studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes\ComoTeSientes.csproj;neutral

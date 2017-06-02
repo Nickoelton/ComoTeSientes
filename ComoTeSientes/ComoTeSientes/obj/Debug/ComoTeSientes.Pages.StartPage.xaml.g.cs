@@ -11,7 +11,7 @@
 namespace ComoTeSientes.Pages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\Users\\t-elrodr\\Documents\\Visual Studio 2017\\Projects\\ComoTeSientes\\ComoTeSient" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\t-elrodr\\Documents\\Visual Studio 2017\\Projects\\ComoTeSientes\\ComoTeSient" +
         "es\\ComoTeSientes\\Pages\\StartPage.xaml")]
     public partial class StartPage : global::Xamarin.Forms.ContentPage {
         

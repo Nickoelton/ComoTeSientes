@@ -23093,16 +23093,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "c:\\Users\\t-elrodr\\Documents\\Visual Studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.UWP\\ComoTeSientes.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\t-elrodr\\documents\\visual studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.UWP\\ComoTeSientes.UWP.csproj",
       "projectName": "ComoTeSientes.UWP",
-      "projectPath": "c:\\Users\\t-elrodr\\Documents\\Visual Studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.UWP\\ComoTeSientes.UWP.csproj",
-      "projectJsonPath": "c:\\Users\\t-elrodr\\Documents\\Visual Studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.UWP\\project.json",
+      "projectPath": "C:\\Users\\t-elrodr\\documents\\visual studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.UWP\\ComoTeSientes.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\t-elrodr\\documents\\visual studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "c:\\Users\\t-elrodr\\Documents\\Visual Studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.csproj": {
-              "projectPath": "c:\\Users\\t-elrodr\\Documents\\Visual Studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.csproj"
+            "C:\\Users\\t-elrodr\\documents\\visual studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.csproj": {
+              "projectPath": "C:\\Users\\t-elrodr\\documents\\visual studio 2017\\Projects\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes\\ComoTeSientes.csproj"
             }
           }
         }

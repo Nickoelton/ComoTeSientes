@@ -102,5 +102,5 @@ c:\Users\t-elrodr\Documents\Visual Studio 2017\Projects\ComoTeSientes\ComoTeSien
 c:\Users\t-elrodr\Documents\Visual Studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 c:\Users\t-elrodr\Documents\Visual Studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 c:\Users\t-elrodr\Documents\Visual Studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-c:\Users\t-elrodr\Documents\Visual Studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes.Android\obj\Debug\ComoTeSientes.Android.dll.mdb
-c:\Users\t-elrodr\Documents\Visual Studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes.Android\bin\Debug\ComoTeSientes.Android.dll.mdb
+C:\Users\t-elrodr\documents\visual studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes.Android\obj\Debug\ComoTeSientes.Android.dll.mdb
+C:\Users\t-elrodr\documents\visual studio 2017\Projects\ComoTeSientes\ComoTeSientes\ComoTeSientes.Android\bin\Debug\ComoTeSientes.Android.dll.mdb

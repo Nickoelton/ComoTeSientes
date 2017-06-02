@@ -11,7 +11,7 @@
 namespace ComoTeSientes {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\t-elrodr\\documents\\visual studio 2017\\Projects\\ComoTeSientes\\ComoTeSient" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\t-elrodr\\Documents\\Visual Studio 2017\\Projects\\ComoTeSientes\\ComoTeSient" +
         "es\\ComoTeSientes\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         

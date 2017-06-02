@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ComoTeSientes.Pages.StartPage">
+             x:Class="ComoTeSientes.Pages.StartPage" BackgroundColor="DarkBlue" Title="ComoTeSientes">
 
-    <StackLayout>
-        <Button x:Name="btnEmotions" Text="Analizar Emociones" Clicked="btnEmotions_Clicked"/>
+    <StackLayout Padding="10" HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="¡Bienvenido!" TextColor="White" Font="16" HorizontalOptions="Center" />
+        <Label Text="Estas a punto de saber como te sientes" TextColor="White" Font="14" HorizontalOptions="Center" />
+        <Button x:Name="btnEmotions" Text="Analizar Emociones" Clicked="btnEmotions_Clicked" BackgroundColor="White" TextColor="DarkGray"/>
     </StackLayout>
 
 </ContentPage>
